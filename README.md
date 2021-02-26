@@ -9,6 +9,9 @@ Step-2: Go inside the project folder, open cmd and type the following commands:
 
 
 pip install Django Pillow
+
+
+
 python manage.py runserver
 
 
